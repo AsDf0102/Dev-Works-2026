@@ -1,0 +1,8 @@
+{
+  "node_version": "20",
+  "graphs": {
+    "graph": "./cli.ts:graph"
+  },
+  "env": ".env",
+  "dependencies" : ["."]
+}
